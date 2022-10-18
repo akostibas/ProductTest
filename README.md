@@ -12,3 +12,4 @@ A repo for PMs to play with!
 
 ### Bonus Items!
 * One file has been deleted from this repository. What was in it?!
+* Find out who added the joke about celebrities--without going through every single commit!
