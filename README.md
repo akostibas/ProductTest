@@ -11,4 +11,4 @@ A repo for PMs to play with!
 * Open a pull request back with your changes!
 
 ### Bonus Items!
-* Figure out what file was deleted from this repository
+* One file has been deleted from this repository. What was it?!
